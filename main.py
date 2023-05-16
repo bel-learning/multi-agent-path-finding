@@ -224,10 +224,9 @@ def init(filename):
     pygame.quit()
 
 if __name__ == "__main__":
-    init("maps/map6.map")
-    init("maps/map7.map")
+    init("maps/map4.map")
+    init("maps/map5.map")
 
-    # init("maps/map6.map")
-    # init("maps/map5.map")
+    # init("maps/map1.map")
     # init("maps/map2.map")
-    # init("maps/map4.map")
+    # init("maps/map3.map")
